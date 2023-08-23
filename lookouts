@@ -1,0 +1,28 @@
+AUTHENTICATION
+    -Register ✔
+    -Login ✔
+    -Reset Password ✔
+    -log out
+USER INTERACTION
+    UPLOAD MEDIA CONTENT
+        -Upload and share content ✔
+        -allow others to interact with content ✔
+        -create dynamic content ✔
+    USER TIMELINE
+        -See content from friend and community on platform ✔
+        -see own activity on platform ✔
+        -interact with content on platform ✔
+    NOTIFICATION
+        -Recieve update on content shared
+        -recieve platform related content
+    FRIEND LIST
+        -view friend requests
+        -search for friends
+        -see suggested friends
+        -see friends list
+        -Add friend
+    USER PROFILE
+        -create profile ✔
+        -CRUDE profile ✔
+        -view activities on the platform ✔
+        -link other social media platforms
